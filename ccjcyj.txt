@@ -3,3 +3,10 @@
 
 这是cc871098，fork了用户ccjcyj下文件ccjcyj.txt
 并在cc871098中，开始做修改
+
+//在git中，设置了git config --global user.name cc871097
+在git中，设置了git config --global user.email ccjcyj@sina.com
+cd cc
+git clone https://github.com/ccjcyj/ccjcyj.git  
+//上述，将ccjcyj的远程库，clone下来
+
